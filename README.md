@@ -1,8 +1,6 @@
 # Covid-19-Analysis
 
-A notebook that carries out analysis on Covid-19 data from the Kaggle.
-
-The CSV files uploaded are the files used.
+A notebook that carries out analysis on Covid-19 data from the Kaggle. The CSV files uploaded are the files used.
 
 ## Usage
 #### To launch the notebook:
